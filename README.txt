@@ -1,12 +1,4 @@
-# Distributed Computing Systems
-
-## Programming Project 1: Simple FTP Client and Server
-
-### Members
-1. Jaya Simha Reddy Kurri (jrk98933@uga.edu)
-2. Shanwaz Waqar Kotekanti (sk98220@uga.edu)
-
-
+Simple FTP Client and Server
 
 #### special compilation or execution instruction
 
@@ -81,10 +73,6 @@
 
 	* quit
 
-
-###### Honor Pledge For Project
-
-This project was done in its entirety by **Jaya Simha Reddy Kurri** and ** Shanwaz Waqar Kotekanti **. We hereby state that we have not received unauthorized help of any form.
 
 
 
